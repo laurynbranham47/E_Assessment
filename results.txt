@@ -1,0 +1,20 @@
+// Time to Completion: 2-2.5 hours //
+
+File name: input.txt
+Number of lines: 14
+Number of characters (total): 1022
+Number of letters: 868
+Number of figures: 26
+Number of other characters: 128
+Number of words: 104
+Number of 1 letter words: 26
+Number of 2 letter words: 26
+Number of 3 letter words: 10
+Number of 4 letter words: 13
+Number of 6 letter words: 10
+Number of 7 letter words: 5
+Number of 8 letter words: 8
+Number of 20 letter words: 3
+Number of 50 letter words: 1
+Number of 100 letter words: 1
+Number of 400 letter words: 1
